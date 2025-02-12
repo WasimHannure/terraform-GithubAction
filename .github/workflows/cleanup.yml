@@ -1,9 +1,6 @@
 name: Terraform Cleanup
 
 on:
-  workflow_dispatch:
-  
-  
 
 jobs:
   terraform-cleanup:
